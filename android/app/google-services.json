@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "830233959894",
+    "project_id": "hashtag-df150",
+    "storage_bucket": "hashtag-df150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830233959894:android:92bc1bc556b882a15d5877",
+        "android_client_info": {
+          "package_name": "com.hashtagcompany.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830233959894-4c4su2cvqkgrbhr6jd59faq0bt2a1k41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hashtagcompany.socialmedia",
+            "certificate_hash": "e38fbe3a0abfaa03e7af16abab75a540137a4398"
+          }
+        },
+        {
+          "client_id": "830233959894-48cjl212ig0cicp159osil9ud1f9nh3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnLMScbGe3HfNA7Dtwb4OvR6FpTQ0TS2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830233959894-48cjl212ig0cicp159osil9ud1f9nh3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
